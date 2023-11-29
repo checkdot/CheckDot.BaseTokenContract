@@ -20,3 +20,7 @@ interface ICheckDot {
     function burn(uint256 amount) external returns (bool);
 }
 ```
+
+## Token Published address
+
+https://basescan.org/token/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE
